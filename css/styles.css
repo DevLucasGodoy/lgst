@@ -3127,12 +3127,14 @@ input::-moz-focus-inner {
     border: none;
     padding: 0;
     outline: 0;
+    left: -20rem;
 }
 
 .s-header__logo img {
     width: 400px;
     height: 150px;
     margin-bottom: 0;
+    left: -20rem;
 }
 
 
