@@ -1942,7 +1942,7 @@ dd {
  * ## floated image
  * ------------------------------------------------------------------- */
 img.h-pull-right {
-    margin: var(--vspace-0_5) 0 var(--vspace-0_5) 2.8rem;
+    margin: var(--vspace-0_5) 0 var(--vspace-0_5) 2 rem;
 }
 
 img.h-pull-left {
