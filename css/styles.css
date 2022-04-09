@@ -3120,7 +3120,7 @@ input::-moz-focus-inner {
     -webkit-transition: all .5s;
     transition: all .5s;
     position: absolute;
-    left: -2rem;
+    left: -5rem;
     top: calc(50% + 5px);
 }
 
