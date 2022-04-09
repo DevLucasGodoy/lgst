@@ -3120,8 +3120,7 @@ input::-moz-focus-inner {
     -webkit-transition: all .5s;
     transition: all .5s;
     position: absolute;
-    left: -2rem;
-    top: calc(50% + 4px);
+    top: calc(50% + 5px);
 }
 
 .s-header__logo a {
