@@ -3127,7 +3127,7 @@ input::-moz-focus-inner {
     border: none;
     padding: 0;
     outline: 0;
-    left: -20rem;
+    left: -2rem;
 }
 
 .s-header__logo img {
