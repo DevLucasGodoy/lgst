@@ -1942,7 +1942,7 @@ dd {
  * ## floated image
  * ------------------------------------------------------------------- */
 img.h-pull-right {
-    margin: var(--vspace-0_5) 0 var(--vspace-0_5) 2.8 rem;
+    margin: var(--vspace-0_5) 0 var(--vspace-0_5) 2 rem;
 }
 
 img.h-pull-left {
@@ -3973,7 +3973,7 @@ html.no-csstransitions .s-hero__content {
 
 @media screen and (max-width: 400px) {
     .s-header__logo {
-        left: 2 rem;
+        left: 3.2rem;
     }
     .s-header__menu-toggle {
         right: 3.2rem;
