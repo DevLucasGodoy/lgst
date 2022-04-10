@@ -3119,7 +3119,7 @@ input::-moz-focus-inner {
     transform: translateY(-50%);
     -webkit-transition: all .5s;
     transition: all .5s;
-    position: absolute;
+    position: relative;
     left: -10 rem;
     top: calc(50% + 5px);
 }
